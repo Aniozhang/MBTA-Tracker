@@ -1,2 +1,2 @@
 # MBTA-Tracker
-Tracking system for buses in Boston.
+Bus tracker using MBTA data
